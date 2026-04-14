@@ -1,0 +1,7 @@
+{
+  "name": "pm-portfolio",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  }
+}
